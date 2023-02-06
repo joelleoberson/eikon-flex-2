@@ -46,6 +46,11 @@ align-items: flex-end;
 
 
 /* 7. exercice-align-3 */
+.align-items-3 .container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
 
 
 /* 8. exercice-all-1 */
