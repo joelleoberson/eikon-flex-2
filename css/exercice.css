@@ -1,27 +1,56 @@
 /* 1. exercice-flex */
 .exercice-flex .container {
   display: flex;
+  background: #fff;
 }
 
 /* 2. exercice-justify-1 */
+.exercice-justifiy-1 .container {
+  background: blue;
+  display: flex;
+  flex-direction: row;
+}
 
 
 /* 3. exercice-justify-2 */
+.exercice-justify-2 .container {
+background: red;
+display: row;
+flex-direction: column;
+align-items: flex-end;
+}
 
 
 /* 4. exercice-justify-3 */
+.exercice-justify-3 .container{
+  display: flex;
+  justify-content: space-between;
+}
 
 
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container {
+  background-color: black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
 
 /* 6. exercice-align-2 */
+.exercice-align-2 .container {
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
 
 
 /* 7. exercice-align-3 */
 
 
 /* 8. exercice-all-1 */
+.all-in-1 .container
+display
 
 
 /* 9. exercice-all-2 */
